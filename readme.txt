@@ -15,5 +15,4 @@ The project is an Alumni Record System that allows users to register as alumni a
 • Search Alumni: Allows the user to search for a specific alumni by name.
 4. User registration prompts the user to enter their name, department name, batch year, and roll. Optionally, they can provide a password or use their roll as the default password.
 5. The program utilizes OOP concepts such as inheritance, encapsulation, abstraction, polymorphism, and templates to implement the functionality and manage user data.
-Overall, the project provides a basic system for managing alumni records, allowing users to register, login, view the alumni list, search for alumni, and delete alumni from the system.
-Regenerate response
+Overall, the project provides a basic system for managing alumni records, allowing users to register, login, view the alumni list, search for alumni and also search for particular department alumni list..
