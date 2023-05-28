@@ -1,0 +1,159 @@
+
+
+		<<-----  Registration for Reunion 2050  ----->> 
+
+
+
+		1. Register New Alumni 
+		2. Login 
+		3. Exit
+
+		Enter Your Choice : 1
+
+		Enter your Name : tonmoy
+		Enter department Name : cse
+		Enter batch : 2020
+		Enter full roll : 2007077
+		Do you want to give a Password [yes/no]: no
+		your password will be your roll 
+
+
+		New User Register Successfully .....
+
+		Do You Want to Continue [Yes/ No] ? :		yes
+
+		<<-----  Registration for Reunion 2050  ----->> 
+
+
+
+		1. Register New Alumni 
+		2. Login 
+		3. Exit
+
+		Enter Your Choice : 1
+
+		Enter your Name : sifat
+		Enter department Name : cse
+		Enter batch : 2020
+		Enter full roll : 2007010
+		Do you want to give a Password [yes/no]: no
+		your password will be your roll 
+
+
+		New User Register Successfully .....
+
+		Do You Want to Continue [Yes/ No] ? :		yes
+
+		<<-----  Registration for Reunion 2050  ----->> 
+
+
+
+		1. Register New Alumni 
+		2. Login 
+		3. Exit
+
+		Enter Your Choice : 1
+
+		Enter your Name : farhan
+		Enter department Name : eee
+		Enter batch : 2020
+		Enter full roll : 2003076
+		Do you want to give a Password [yes/no]: yes
+		Enter your password : 123456
+		New User Register Successfully .....
+
+		Do You Want to Continue [Yes/ No] ? :		yes
+
+		<<-----  Registration for Reunion 2050  ----->> 
+
+
+
+		1. Register New Alumni 
+		2. Login 
+		3. Exit
+
+		Enter Your Choice : 1
+
+		Enter your Name : mishad
+		Enter department Name : eee
+		Enter batch : 2019
+		Enter full roll : 1903056
+		Do you want to give a Password [yes/no]: yes
+		Enter your password : 12345
+		New User Register Successfully .....
+
+		Do You Want to Continue [Yes/ No] ? :		yes
+
+		<<-----  Registration for Reunion 2050  ----->> 
+
+
+
+		1. Register New Alumni 
+		2. Login 
+		3. Exit
+
+		Enter Your Choice : 12345
+		Do You Want to Continue [Yes/ No] ? :		yes
+
+		<<-----  Registration for Reunion 2050  ----->> 
+
+
+
+		1. Register New Alumni 
+		2. Login 
+		3. Exit
+
+		Enter Your Choice : 2
+		Enter your Name : tonmoy
+		Enter your password : 2007077
+		Login Successfully....
+
+		 what are you looking for ?
+		1. Show Alumni List 
+		2. Search Alumni 
+		3. Exit
+
+		Enter Your Choice : 1
+		1.do you want see the whole alumni list ?
+		2.do you want see any particular department ?
+		Enter your choice : 1
+
+		---Alumni List---
+
+		1. tonmoy  dept : cse  Batch : 2020
+		2. sifat  dept : cse  Batch : 2020
+		3. farhan  dept : eee  Batch : 2020
+		4. mishad  dept : eee  Batch : 2019
+
+		Do You Want to Continue [Yes/ No] ? :		yes
+
+		<<-----  Registration for Reunion 2050  ----->> 
+
+
+
+		1. Register New Alumni 
+		2. Login 
+		3. Exit
+
+		Enter Your Choice : 2
+		Enter your Name : tonmoy
+		Enter your password : 2007077
+		Login Successfully....
+
+		 what are you looking for ?
+		1. Show Alumni List 
+		2. Search Alumni 
+		3. Exit
+
+		Enter Your Choice : 1
+		1.do you want see the whole alumni list ?
+		2.do you want see any particular department ?
+		Enter your choice : 2
+		Enter department name :cse
+
+		---Alumni List---cse department
+
+		1. tonmoy  Batch : 2020
+		2. sifat  Batch : 2020
+
+		Do You Want to Continue [Yes/ No] ? :		no
