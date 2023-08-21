@@ -29,14 +29,16 @@ void create(int m)
         q.push(s);
         visited[s]=1;
         vector<int> bfs;
+
         while(!q.empty())
         {
             int node = q.front();
             bfs.push_back(node);
+
             q.pop();
             for(auto it : adj[node])
             {
-                if(!visited[it])
+                if(visited[it]!= 1)
                 {
                     q.push(it);
                     visited[it]=1;
